@@ -1,4 +1,4 @@
-# CS361-CtoF_Microservice
+# CS361-FtoC_Microservice
 
 # Overview:
 The Fahrenheit to Celsius Microservice, created by thatsaksyguy is written in C++ and converts data collected via textfile from Fahrenheit to Celsius. After collecting the data from the textfile, the data is converted and saved back into the file for further use. 
