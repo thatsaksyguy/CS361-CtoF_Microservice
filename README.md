@@ -8,3 +8,6 @@ In order to convert the data, the word 'run' must be written to `readFile.txt`. 
 
 # Receiving Data:
 To receive the data converted by the microservice, the program must read the output provided by the `f_to_c.txt` file. This file must be formatted in the following way: `Current temperature; high; low; humidity%`
+
+# UML Sequence Diagram:
+![UML Sequence Diagram-2](https://user-images.githubusercontent.com/114385372/199109376-4709b188-4aa9-4cf5-85a7-fa8ca24d3278.jpg)
